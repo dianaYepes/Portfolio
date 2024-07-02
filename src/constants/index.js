@@ -35,8 +35,8 @@ import {
       iconBg: "#383E56",
       date: "June 2024 - Present",
       points: [
+        "Build and modify custom and standard API connectors for clients: create job to query API, extract and parse data, write to AWS database, and create automated unit tests",
         "Define and document client requirements, create detailed Jira tickets for developers, and conduct user testing in various environments for reporting client analytics and better decision making.",
-        "Ensure that the product meets client expectations and maintain clear communication throughout the development process.",
         "Investigate data discrepancies on behalf of customers such as Adevinta (eBay), Paramount, and Hearst.",
       ],
     },
