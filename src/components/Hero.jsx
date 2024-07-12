@@ -9,7 +9,7 @@ import me from "../assets/me.png"
 
 const Hero = () => {
   const [typeEffect] = useTypewriter({
-    words: ["a First-Gen Graduate!","a Latina in Tech!","a great learner!"],
+    words: ["a First-Gen Graduate!","a Latina in Tech!","a great learner!","your next hire!"],
     loop:true,
     autostart:true,
     typeSpeed: 70   

@@ -35,9 +35,9 @@ import {
       iconBg: "#383E56",
       date: "June 2024 - Present",
       points: [
-        "Build and modify custom and standard API connectors for clients: create job to query API, extract and parse data, write to AWS database, and create automated unit tests",
-        "Define and document client requirements, create detailed Jira tickets for developers, and conduct user testing in various environments for reporting client analytics and better decision making.",
-        "Investigate data discrepancies on behalf of customers such as Adevinta (eBay), Paramount, and Hearst.",
+        "Create and integrate custom API connectors for clients, including jobs for querying APIs, writing to AWS Athena, and merging client datasources.",
+        "Define and document client requirements, create comprehensive Jira tickets for developers, and conduct thorough user testing across multiple environments to enhance client analytics and support informed decision-making.",
+        "Investigate and resolve data discrepancies for high-profile customers such as CBS (Paramount), Chess.com, and Hearst, ensuring data integrity and client satisfaction.",
       ],
     },
     {
@@ -48,7 +48,7 @@ import {
       date: "August 2023 - Feb 2024",
       points: [
         "Reindexed ElasticSearch indices and decreased disk usage for each node by 35% by implementing an ingest pipeline that filtered incoming logs using ElasticSearch API",
-        "Integrated Data Quality checks for the Platform and Delivery team databases to upgrade the tables to Tier 2 according to data governance requirements.",
+        "Integrated Data Quality checks for the Platform and Delivery teams’ Athena databases to upgrade the tables to Tier 2 according to data governance requirements, and enabling data analytics usage for customer success team",
         "Conducted the Discovery work necessary to create detailed tickets, outlining the scope and requirements. Updated our Data producer documentation with business impacts if data fails required consumer SLA."
       ],
     },
@@ -59,9 +59,9 @@ import {
       iconBg: "#383E56",
       date: "September 2021 - August 2023",
       points: [
-        "Receive requests from Math/Comp-Sci department faculty members and edit/manage websites, mainly through using Django or editing the HTML code on the Linux server.",
-        "Work on projects such as using Google Apps Script to modify the CS department’s Internship Approval Form.",
-        "Assist with any issues or projects on the NYU Courant websites, mainly pertaining to code written in Django and JS.",
+        "Managed and edited websites for math and computer science department faculty members using Django and HTML on Linux servers.",
+        "Developed projects using Google Apps Script, including modifications to the CS department’s faculty members list.",
+        "Trouble-shoot issues users have with software and computer and printer hardware (Linux OS)",
       ],
     },
     {
@@ -71,7 +71,7 @@ import {
       iconBg: "#000000",
       date: "May 2022 - September 2022",
       points: [
-        "Extended existing Python code for a Slackbot meant to notify MarTech team on Pull Requests, updating its security and enabling it for GHEC via GitHub webhooks, AWS Lambda, and the SlackAPI",
+        "Developed Python code for an automated backend Slackbot meant to notify MarTech team on Pull Requests, updating its security and enabling it for GHEC via GitHub webhooks, AWS Lambda, and the SlackAPI",
         "Removed over 90 security vulnerabilities from team APIs and Lambda projects by upgrading all projects to .NET6, detecting vulnerable parent libraries, and upgrading and installing necessary NuGet library packages.",
         "Won Tools Innovation category in the company-wide Intern Hackathon for my Python Q&A message history SlackBot and its web server application.",
       ],
@@ -84,7 +84,7 @@ import {
       date: "May 2021 - August 2021",
       points: [
         "Fixed student software bugs and tech issues on different applications",
-        "Taught children how to use simple prototyping software such as MagicaVoxel, how to create simple video game animations, and how to design 2D games using GameMaker.",
+        "Taught children how to use simple prototyping software such as MagicaVoxel, how to create simple video game animations, how to design 2D games using GameMaker, and elementary python coding.",
         "Taught basic file management to students",
       ],
     },
@@ -147,6 +147,10 @@ import {
           name: "Apache MapReduce",
           color: "text-amber-100",
         },
+        {
+          name: "Java",
+          color: "text-amber-100",
+        },
       ],
       image: medium,
       source_code_link: "https://medium.com/@manurod19/transportation-in-nyc-citi-bike-vs-taxi-edbd5461aee2",
@@ -179,6 +183,10 @@ import {
       tags: [
         {
           name: "React",
+          color: "text-amber-100",
+        },
+        {
+          name: "Javascript",
           color: "text-amber-100",
         },
       ],

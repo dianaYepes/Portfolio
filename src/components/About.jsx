@@ -26,8 +26,7 @@ const About = () => {
           <p className='text-secondary mt-5 text-[17px] max-w-xl leading-[30px]'>
             To begin with, my name is Diana Yepes.
             I first became interested in programming when I was teaching at an online STEM camp for elementary age children, a job I only obtained in order to pay for my college tuition.  Ironically, I was teaching 11-year olds how to code in Python before I myself knew how. 
-            But, with this rather unusual introduction, I stepped into the world of programming.  From then on, I did my best to obtain technology related work, so that I could both get myself through college, and also gain valuable experience. Two birds, one stone!
-            And as you can guess, I was able to graduate (proud first-gen!) and learn a lot through my work and project experiences!
+            But, with this rather unusual introduction, I stepped into the world of programming.  From then on, I've done my best to obtain technology related work, in order to get myself through college, and also gain valuable experience. Two birds, one stone!
           </p>
         </div>
 
