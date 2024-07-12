@@ -41,7 +41,7 @@ import {
       ],
     },
     {
-      title: "Software Development Engineer I",
+      title: "Software Development Engineer",
       company_name: "GoDaddy",
       icon: godaddy,
       iconBg: "#000000",
